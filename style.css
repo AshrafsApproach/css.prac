@@ -1,0 +1,21 @@
+                     
+                     /* Practice of external CSS Start */
+
+.external-top {
+            background-color: rgb(10, 81, 107); 
+            display: inline-block;
+            padding: 8px;
+        }
+
+.external-bottom {
+            background-color: rgb(97, 107, 10); 
+            display: inline-block;
+            padding: 8px;
+        }
+        
+                     /* Practice of external CSS End */
+
+
+
+
+                     
